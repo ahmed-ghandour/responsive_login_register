@@ -1,6 +1,6 @@
 # magedsoft_task
 
-A simple ui task.
+A simple responsive login & register UI .
 
 ## Getting Started
 
